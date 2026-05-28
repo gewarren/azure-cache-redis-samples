@@ -7,7 +7,7 @@ name: 'Quickstart: Use Azure Cache for Redis with an ASP.NET web app'
 description: Learn how to use an ASP.NET web application to connect to Azure Cache for Redis to store and retrieve data from the cache.
 products:
 - azure
-- aspnet
+- aspnet-core
 - azure-cache-redis
 ---
 # Quickstart: Use Azure Cache for Redis with an ASP.NET web app
